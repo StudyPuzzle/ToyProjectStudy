@@ -1,10 +1,8 @@
-# ToyProjectStudy
+# 🧩 ToyProjectStudy 🧩
 
-< 기간 ~ 7월 15일 >
+📆 기간 ~ 7월 15일 📆
 
 개인 레포에서 작업
-
-commit message: update, feature...
 
 커밋 : 평일 20~22시
 주말 : 자율 커밋
@@ -16,9 +14,23 @@ commit message: update, feature...
 매주 폴더 하나씩
 presentation/week1.md
 
-## 첫주차 토이 프로젝트 진척도
+| ✨ commit type | commit-message |
+| ------- | ----------- |
+| feat | 해당 기능을 추가 |
+| add | 없던 파일을 생성함, 초기 세팅 |
+| bugfix | 버그 수정 |
+| refactor | 코드 리팩토링 |
+| fix | 코드 수정 |
+|  move | 파일 옮김/정리 |
+| del | 기능/파일을 삭제 |
+| test | 테스트 코드를 작성 |
+| style | css |
+| gitfix | gitignore 수정 |
+| script | package.json 변경(npm 설치 등) | chore 기타 수정
 
-progress에 매일 간단하게 잔디심기
+# 첫 주차 토이 프로젝트 진척도
+
+🌿 **progress에 매일 간단하게 잔디 심기**
 
 - 강연주 님 - 몸무게, 체중, 체지방률, 근육량과 함께 보는 
 - 한소영 님 - 여러 기능 추가된 투두리스트 
